@@ -25,6 +25,8 @@ $ npm run start
 
 ### Require
 
+```bash
 Android Studio ( with Virtual machine)
 Maven Project ( in my Repo Weather-crawler)
 Mongo DB
+```
