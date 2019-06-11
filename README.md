@@ -23,3 +23,8 @@ $ npm install
 $ npm run start
 ```
 
+### Require
+
+Android Studio ( with Virtual machine)
+Maven Project ( in my Repo Weather-crawler)
+Mongo DB
